@@ -1,0 +1,38 @@
+
+.content {
+    flex: 1; 
+    background-color: #fff;
+    padding: 40px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h5 {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+.content span {
+    color: #e74c3c;
+}
+
+.content p {
+    font-size: 1.1em;
+    color: #ffffff;
+}
+
+.content a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #e74c3c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.content a:hover {
+    background-color: #b52f20;
+}
